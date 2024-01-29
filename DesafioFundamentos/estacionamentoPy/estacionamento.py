@@ -43,7 +43,9 @@ if __name__ == "__main__":
         elif opcao == 3:
             estacionamento.listar_veiculos()
         elif opcao == 4:
-            print("Fim do programa")
+            print("Fim do programa.")
             break
         else:
             print("Opção inválida. Tente novamente.")
+
+print(70*'-')
